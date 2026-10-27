@@ -1,5 +1,6 @@
 ---
 name: sylvia-novel
+aliases: [vocab-novel-interactive-reader, hsinyuchi-vocab-novel]
 version: 3.6.0
 author: hsinyuchi (Sylvia 紀老師)
 license: CC BY-NC-SA 4.0
